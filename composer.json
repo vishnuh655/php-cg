@@ -1,0 +1,17 @@
+{
+  "name": "vishnu/php-code-generator",
+  "authors": [
+    {
+      "name": "Vishnu Haridas",
+      "email": "vishnuh655@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CodeGenerator\\": "src/"
+    }
+  },
+  "require": {
+    "nette/php-generator": "^3.6"
+  }
+}
